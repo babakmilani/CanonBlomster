@@ -162,10 +162,10 @@ footer {
 .intro {
     font-size: 1.1em;
     line-height: 1.5;
-    color: #000;
+    color: #ffffff;
     margin: 0;
     text-align: left;
-    background: #fff;
+    background: #df20af;
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 2px 8px rgba(223, 32, 175, 0.07);
@@ -686,7 +686,7 @@ footer {
 /* Opening hours style */
 .opening-hours {
     font-size: 0.9rem;
-    color: #444;
+    color: #df20af;
     margin-top: 4px;
     font-weight: 500;
     line-height: 1;
